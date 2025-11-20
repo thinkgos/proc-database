@@ -4,7 +4,7 @@ go 1.25
 
 require (
 	github.com/thinkgos/tdengine-gorm v0.2.0
-	go.uber.org/zap v1.27.0
+	go.uber.org/zap v1.27.1
 	gorm.io/driver/mysql v1.6.0
 	gorm.io/driver/postgres v1.6.0
 	gorm.io/driver/sqlite v1.6.0
